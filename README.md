@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @quistthejack10
-- 👀 I’m interested in working as a software developer.
+- 👀 I am a recent graduate from the University of North Texas with a BS in Computer Information Systems. I’m interested in working as a software developer.
 - 🌱 I’m currently learning Javascript, NodeJS, ReactJs and React Native.
 - 📫 How to reach me jacksonquist21@gmail.com.
 
